@@ -1,4 +1,4 @@
-# jenmitz.github.io
+# portfolio-bootstrap
+This is a small personal webpage. It originally started as a basic HTML and CSS site, but I've now added Bootstrap.
 
-personal website, currently using a layout from a UCD Bootcamp project.
-not fully functional, still a work in progress. links and format need to be fixed.
+The formatting isn't perfect, and the styles aren't the same as the original site, but it's still a functioning website!
