@@ -16,9 +16,10 @@ footer {
 	color: #fff;
 	font-family: 'Playfair Display SC', Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 12px;
-	height: 70px;
+	height: 90px;
 	text-align: center;
     width: 100%;
+    bottom: 0;
 }
 p {
 	font-family: 'Barlow', Arial, 'Helvetica Neue', Helvetica, sans-serif;
