@@ -97,7 +97,7 @@ hr {
 	margin-bottom: 0;
 	text-align: center;
 }
-#projectLinks {
+.projectLinks {
 	background-color: #A9876F;
 	color: #fff;
 	font-family: 'Barlow', Arial, 'Helvetica Neue', Helvetica, sans-serif;
