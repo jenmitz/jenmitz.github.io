@@ -20,7 +20,8 @@ footer {
 	font-size: 12px;
 	height: 90px;
 	text-align: center;
-	width: 100%;
+    width: 100%;
+    margin-bottom: 0;
 }
 p {
 	font-family: 'Barlow', Arial, 'Helvetica Neue', Helvetica, sans-serif;
@@ -91,12 +92,6 @@ hr {
 	font-family: 'Playfair Display SC', Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	padding: 20px;
 }
-#name {
-	font-family: 'Playfair Display SC', Arial, 'Helvetica Neue', Helvetica, sans-serif;
-	font-size: 30px;
-	margin-bottom: 0;
-	text-align: center;
-}
 .projectLinks {
 	background-color: #A9876F;
 	color: #fff;
@@ -105,26 +100,35 @@ hr {
 	padding: 6px;
 	text-decoration: underline;
 }
+.copyright {
+    font-size: 12px;
+}
+#name {
+	font-family: 'Playfair Display SC', Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 30px;
+	margin-bottom: 0;
+	text-align: center;
+}
 #jenmitz {
 	float: left;
-	height: 210px;
-	padding-right: 15px;
-	width: 170px;
+	height: 230px;
+	padding-right: 20px;
+	width: 185px;
 }
 #gitHubLink {
-	height: 64px;
+	height: 58px;
 	margin: 5px;
 	padding: 5px;
 	padding-top: 10px;
-	width: 60px;
+    width: 51px;
 }
 #linkedInLink {
-	height: 55px;
+	height: 50px;
 	margin: 5px;
 	padding: 5px;
 	padding-bottom: 0;
 	padding-top: 10px;
-	width: 60px;
+	width: 50px;
 }
 #header {
 	background-color: #90785E;
