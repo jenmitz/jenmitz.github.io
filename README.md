@@ -1,4 +1,13 @@
-# portfolio-bootstrap
-This is a small personal webpage. It originally started as a basic HTML and CSS site, but I've now added Bootstrap.
+# Personal Web Page
+This is a small personal site that is in a fairly constant state of being improved and worked on.
 
-The formatting isn't perfect, and the styles aren't the same as the original site, but it's still a functioning website!
+# Current Features
+- HTML, CSS, & Bootstrap
+- Brief description
+- My up-to-date resume
+- My portfolio
+- Access to my GitHub and LinkedIn pages via links
+
+# Upcoming Features
+- Functioning contact form
+- Javascript implementation

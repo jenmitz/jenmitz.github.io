@@ -7,9 +7,9 @@ img {
 	width: 100%;
 }
 a:hover {
+	color: #D7AE98;
 	font-style: italic;
-    text-decoration: none;
-    color: #D7AE98;
+	text-decoration: none;
 }
 footer {
 	background-color: #90785E;
@@ -112,7 +112,7 @@ hr {
 	width: 170px;
 }
 #gitHubLink {
-	height: 60px;
+	height: 64px;
 	margin: 5px;
 	padding: 5px;
 	padding-top: 10px;
@@ -121,9 +121,9 @@ hr {
 #linkedInLink {
 	height: 55px;
 	margin: 5px;
-    padding: 5px;
-    padding-top: 10px;
-    padding-bottom: 0;
+	padding: 5px;
+	padding-bottom: 0;
+	padding-top: 10px;
 	width: 60px;
 }
 #header {
