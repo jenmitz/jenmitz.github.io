@@ -3,11 +3,12 @@ This is a small personal site that is in a fairly constant state of being improv
 
 # Current Features
 - HTML, CSS, & Bootstrap
-- Brief description
+- Brief description of myself
 - My up-to-date resume
-- My portfolio
 - Access to my GitHub and LinkedIn pages via links
 
 # Upcoming Features
-- Functioning contact form
 - Javascript implementation
+
+# Possible Features
+- Working contact form
