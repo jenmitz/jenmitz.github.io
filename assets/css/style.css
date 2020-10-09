@@ -4,7 +4,7 @@ body {
 }
 img {
 	height: 100%;
-	width: 100%;
+    width: 100%;
 }
 a:hover {
     color: #fff;
@@ -40,8 +40,14 @@ hr {
 	background-color: #D7AE98;
 	border-style: none;
 	height: 3px;
-	position: center;
-	width: 100%;
+	width: 95%;
+}
+
+h1  {
+    color: red;
+}
+#contactMsg {
+    width: 60%;
 }
 #resumeLink {
     color: #D7AE98;
@@ -127,8 +133,9 @@ hr {
 }
 .jenmitz {
 	float: left;
-	height: 230px;
-	padding-right: 20px;
+	height: 200px;
+    padding-right: 20px;
+    padding-left: 30px;
 	width: 185px;
 }
 .gitHubLink {
@@ -156,7 +163,7 @@ hr {
    
 }
 
-@media (max-width: 420px) {
+/* @media (max-width: 420px) {
     .nav-link {
         font-size: 10px;
     }   
@@ -175,5 +182,5 @@ hr {
     .nav-link-selected {
         padding: none;
     }
-}
+} */
 /* 375 x 812 (iphone x screen) isn't good - small sizes need to be fixed (links mainly) */
