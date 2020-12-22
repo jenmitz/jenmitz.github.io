@@ -2,18 +2,20 @@ body {
 	background-color: transparent;
 	background-image: url("../images/leather_1.png");
 }
-img {
-	height: 100%;
-    width: 100%;
-}
+
 a:hover {
-    color: #fff;
+    color: black;
 	font-style: italic;
 }
+
 p {
     font-family: 'Barlow', Arial, 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 18px;
     margin: 30px;
+}
+img {
+	height: 100%;
+	width: 100%;
 }
 footer {
     background-color: #90785E;
@@ -42,9 +44,12 @@ hr {
 	height: 3px;
 	width: 95%;
 }
-
 h1  {
     color: red;
+}
+h5{
+	color: #fff;
+	font-size: 20px;
 }
 #contactMsg {
     width: 60%;
@@ -109,7 +114,6 @@ h1  {
 	font-family: 'Playfair Display SC', Arial, 'Helvetica Neue', Helvetica, sans-serif;
     padding: 20px;
     font-size: 17px;
-    font-style: oblique;
     color: #D7AE98;
 }
 .projectLinks {
@@ -118,7 +122,6 @@ h1  {
 	font-family: 'Barlow', Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	height: 35px;
 	padding: 6px;
-	text-decoration: underline;
 }
 .copyright {
     font-size: 12px;
@@ -133,10 +136,10 @@ h1  {
 }
 .jenmitz {
 	float: left;
-	height: 200px;
+	height: 300px;
     padding-right: 20px;
     padding-left: 30px;
-	width: 185px;
+	width: 250px;
 }
 .gitHubLink {
 	height: 35px;
