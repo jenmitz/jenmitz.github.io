@@ -1,0 +1,24 @@
+/* styles */
+body {}
+
+/* header styles */
+header h1 {}
+
+/* nav styles */
+nav {}
+nav img {}
+
+/* aside styles  */
+aside {}
+#selfie{ height: 40rem;}
+#graphic{ height: 25rem;}
+
+/* main styles */
+main {}
+main h2 {}
+main p {}
+
+/* footer styles */
+footer {}
+footer img #github {}
+footer img #linkedin {} 
