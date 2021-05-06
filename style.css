@@ -1,24 +1,16 @@
 /* styles */
-body {}
+body { top: 0; bottom: 0; }
 
 /* header styles */
-header h1 {}
+#selfie { height: 20rem; }
+#graphic { height: 25rem; }
 
 /* nav styles */
-nav {}
-nav img {}
-
-/* aside styles  */
-aside {}
-#selfie{ height: 40rem;}
-#graphic{ height: 25rem;}
+nav ul { list-style: none; }
 
 /* main styles */
-main {}
-main h2 {}
-main p {}
 
 /* footer styles */
-footer {}
-footer img #github {}
-footer img #linkedin {} 
+footer { background-color: lightgray; }
+#github { height: 4rem; }
+#linkedin { height: 4rem; } 
