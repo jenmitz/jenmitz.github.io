@@ -1,8 +1,22 @@
 /* styles */
-body { top: 0; bottom: 0; }
+body { 
+    bottom: 0; 
+    position: sticky;
+    width: 90%;
+    left: 2%;
+}
 
 /* header styles */
-#selfie { height: 20rem; }
+header h1 {
+    font-size: 5rem;
+}
+header aside img {
+    padding-right: 3rem;
+}
+#selfie { 
+    height: 20rem;
+    float: left;
+}
 #graphic { height: 25rem; }
 
 /* nav styles */
@@ -11,6 +25,17 @@ nav ul { list-style: none; }
 /* main styles */
 
 /* footer styles */
-footer { background-color: #5FA992; }
-#github { height: 4rem; }
-#linkedin { height: 4rem; } 
+footer { 
+    background-color: #5FA992; 
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    padding: 0.5rem;
+}
+#github { 
+    height: 3rem;
+}
+#linkedin { 
+    height: 3rem; 
+} 
